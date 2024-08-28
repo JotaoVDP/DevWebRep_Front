@@ -13,7 +13,7 @@ import ContainerRegister from './pages/ContainerRegister';
 
 function App() {
 
-  const baseUrl = "https://dev-web-rep-back-end-rlzp.vercel.app";
+  // const baseUrl = "https://dev-web-rep-back-end-rlzp.vercel.app";
 
   return (
     <div className='App'>
